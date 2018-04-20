@@ -72,6 +72,16 @@ a:hover, a:active, a:focus {
 	
 }
 
+.social {
+	display: inline; 
+	border-right: 1px solid #28a4a4;
+	width: 30px;
+	height: 30px;;
+	
+}
+.social:hover {
+	background-color: #8D8D8D;
+}
 
 
 ul.nav {
